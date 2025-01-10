@@ -26,7 +26,7 @@
 ---
 
 ## 🤝 Our Community
-- [Discord](https://github.com/TenServer/Discussions): プロジェクトに関する質問やアイデアを共有。
+- [Discord](https://github.com/TenServer/Discussions): プロジェクトに関する質問やアイデアを共有（テン鯖 - TenServer）
 - [TenServer's Twitter](https://twitter.com/tenserver_dev): プロジェクト用アカウント
 - [テンさん's Twitter](https://twitter.com/star_dot123): 運営主アカウント
 
