@@ -20,9 +20,7 @@
 ---
 
 ## 🚀 Join Us
-1. このリポジトリを **[Fork](https://github.com/TenServer/.github)** する。  
-2. 新しいアイデアや機能を **[Pull Request](https://github.com/TenServer/.github/pulls)** として提案する。  
-3. [Issue](https://github.com/TenServer/.github/issues) を通じてバグ報告や改善提案を共有する。  
+1. コミュニティ[Discord](https://discord.gg/BYEcB9Q8SZ)に参加するだけ！新しいアイデアや機能を提案したり、バグ報告・開発チームに加入することができます！ 
 
 初心者から経験豊富な開発者まで、誰でも参加を歓迎します！🎉
 
